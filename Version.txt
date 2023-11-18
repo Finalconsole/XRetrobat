@@ -1,2 +1,2 @@
-1.001
-https://raw.githubusercontent.com/Finalconsole/XRetrobat/main/test.zip
+1.002
+https://raw.githubusercontent.com/Finalconsole/XRetrobat/main/Lists.zip
